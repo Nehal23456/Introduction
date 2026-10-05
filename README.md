@@ -142,7 +142,11 @@ Interactive dashboard for exploring NBA statistics, player performance and team-
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/85-cell/85-cell/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/85-cell/85-cell/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/85-cell/85-cell/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/85-cell/85-cell/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
